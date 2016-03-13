@@ -1,0 +1,2 @@
+# Hirc
+Haskell IRC Framework
